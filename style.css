@@ -1,0 +1,14 @@
+p{
+text-align: center;
+margin:none;
+}
+img{
+height: 80px; 
+width: 120px;
+margin:40,10,5;
+}
+.searchbar{text-align:right;
+width:25%;
+display:center;
+margin:none;}
+body{ text-align: center}
