@@ -5,10 +5,12 @@ margin:none;
 img{
 height: 80px; 
 width: 120px;
-margin:40,10,5;
+margin:80,10,20;
 }
-.searchbar{text-align:right;
-width:25%;
-display:center;
-margin:none;}
+
 body{ text-align: center}
+::placeholder{ text-align: justify;
+color: red;
+margin:10;
+ }
+
