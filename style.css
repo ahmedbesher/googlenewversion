@@ -22,4 +22,5 @@ justify-content: center;
  a {cursor: not-allowed;}
  a:link {color: burlywood;}
 a:visited {color: #aaaaff;}
+.smaller{ width:16px; height:16px;}
   
