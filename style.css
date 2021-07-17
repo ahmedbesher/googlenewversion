@@ -23,4 +23,6 @@ justify-content: center;
  a:link {color: burlywood;}
 a:visited {color: #aaaaff;}
 .smaller{ width:16px; height:16px;}
-  
+ .cell{ display:table-cell;
+ border:solid;
+ text-align:center;}
