@@ -16,6 +16,7 @@ margin: 0%;}
 color: red;
 display: flex;
 justify-content: center;
+border: none
  }
  a {text-decoration: none;}
  a:hover {text-decoration: underline;}
@@ -23,6 +24,4 @@ justify-content: center;
  a:link {color: burlywood;}
 a:visited {color: #aaaaff;}
 .smaller{ width:16px; height:16px;}
- .cell{ display:table-cell;
- border:solid;
- text-align:center;}
+address: {display:inline;}
